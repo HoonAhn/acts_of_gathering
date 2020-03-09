@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/actsofgathering/static/css/main.738313d9.chunk.css",
-    "main.js": "/actsofgathering/static/js/main.adb67924.chunk.js",
-    "main.js.map": "/actsofgathering/static/js/main.adb67924.chunk.js.map",
-    "runtime-main.js": "/actsofgathering/static/js/runtime-main.bc4722cd.js",
-    "runtime-main.js.map": "/actsofgathering/static/js/runtime-main.bc4722cd.js.map",
-    "static/js/2.7ca9fd27.chunk.js": "/actsofgathering/static/js/2.7ca9fd27.chunk.js",
-    "static/js/2.7ca9fd27.chunk.js.map": "/actsofgathering/static/js/2.7ca9fd27.chunk.js.map",
-    "index.html": "/actsofgathering/index.html",
-    "precache-manifest.dd523cd55d0be991e03ef7f890570de6.js": "/actsofgathering/precache-manifest.dd523cd55d0be991e03ef7f890570de6.js",
-    "service-worker.js": "/actsofgathering/service-worker.js",
-    "static/css/main.738313d9.chunk.css.map": "/actsofgathering/static/css/main.738313d9.chunk.css.map",
-    "static/js/2.7ca9fd27.chunk.js.LICENSE.txt": "/actsofgathering/static/js/2.7ca9fd27.chunk.js.LICENSE.txt"
+    "main.css": "/acts_of_gathering/static/css/main.738313d9.chunk.css",
+    "main.js": "/acts_of_gathering/static/js/main.10a078bf.chunk.js",
+    "main.js.map": "/acts_of_gathering/static/js/main.10a078bf.chunk.js.map",
+    "runtime-main.js": "/acts_of_gathering/static/js/runtime-main.f96b598a.js",
+    "runtime-main.js.map": "/acts_of_gathering/static/js/runtime-main.f96b598a.js.map",
+    "static/js/2.7ca9fd27.chunk.js": "/acts_of_gathering/static/js/2.7ca9fd27.chunk.js",
+    "static/js/2.7ca9fd27.chunk.js.map": "/acts_of_gathering/static/js/2.7ca9fd27.chunk.js.map",
+    "index.html": "/acts_of_gathering/index.html",
+    "precache-manifest.2bdd797b86fa6f0f21f129a41c0b8dc5.js": "/acts_of_gathering/precache-manifest.2bdd797b86fa6f0f21f129a41c0b8dc5.js",
+    "service-worker.js": "/acts_of_gathering/service-worker.js",
+    "static/css/main.738313d9.chunk.css.map": "/acts_of_gathering/static/css/main.738313d9.chunk.css.map",
+    "static/js/2.7ca9fd27.chunk.js.LICENSE.txt": "/acts_of_gathering/static/js/2.7ca9fd27.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bc4722cd.js",
+    "static/js/runtime-main.f96b598a.js",
     "static/js/2.7ca9fd27.chunk.js",
     "static/css/main.738313d9.chunk.css",
-    "static/js/main.adb67924.chunk.js"
+    "static/js/main.10a078bf.chunk.js"
   ]
 }
